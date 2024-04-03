@@ -20,4 +20,3 @@ module.exports = (req, res, next) => {
   }
 };
 
-//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

@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 const crypto = require('crypto');
 
 const HttpError = require('../models/http-error');
-const User = require('../models/user');
+const User = require('../models/User');
 const sendgridTransport = require('nodemailer-sendgrid-transport');
 const Trainer = require('../models/trainers');
 const Trainees = require('../models/trainee');
